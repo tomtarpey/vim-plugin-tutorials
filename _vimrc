@@ -17,5 +17,5 @@ Plugin 'tpope/vim-fugitive'
 
 
 
-call Vundle#end()
+call vundle#end()
 filetype plugin indent on
